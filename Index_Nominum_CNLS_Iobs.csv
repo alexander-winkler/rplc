@@ -18,7 +18,7 @@ Aepinus (Hoch) Franciscus,313483192,,255
 Aeschylus,,Q40939,"3,14,93"
 Aesopus,,Q43423,3
 Aesticampianus Joannes,41271419,Q107183,182
-Agathopedius Lucas,",313483192",,97
+Agathopedius Lucas,313483192,,97
 Aggaeus Fridericus,45149109,,260
 Agricola Georgius,100164815,Q76579,192
 "Agricola Rudolfus, Frisius",,Q365557,"83,109,149,178,180,182"
@@ -89,7 +89,7 @@ Archius Nicolaus,59996492,,30
 "Arckel, Cornelius van",29960280,,7
 Arcudius Petrus,,Q3903655,85
 Arena Antonius,,Q2857526,145
-Argentein Johannes,,,165
+Argentein Johannes,,Q6219350,165
 Argyropulus Johannes,27074978,Q26648,87
 Arioso Orazio,,,275
 Ariosto Ludovico,71386455,Q48900,"29,45,58,107,108"
@@ -120,7 +120,7 @@ Ausonius,109786483,Q234593,"5,60"
 Avancinus Nicolaus,,Q3340050,183
 Avellanus Arcadius,89239495,Q4785199,"218,292"
 "Avendaño, Didacus de",10065850,,"301,306"
-Aventinus Johannes,,,190
+Aventinus Johannes,,Q61140,190
 Avitus Alcimus,,,312
 Αyllόn Joachim,,,301
 Aymerichus Matthaeus,47101129,Q6005837,"47,48"
@@ -134,7 +134,7 @@ Badin Stephen Th.,10091535,Q3592052,292
 "Baer, Karl E. von",,Q57190,"255,261"
 Baiào Andreas,16539733,,316
 Balbinus Bohuslaus,,Q710504,232
-Balbus Hieronymus,8092156012392250081280,,"83,129,134"
+Balbus Hieronymus,8092156012392249700005,,"83,129,134"
 Balde Jacobus,36914132,Q65850,"10,20,23,183,186,200,204"
 Balduinus Franciscus,,Q5493177,133
 Balli Johannes Baptista,28656096,,298
@@ -144,7 +144,7 @@ Bando HenricusL.N.,,,250
 Bing Petrus,,,276
 Baptista (Spagnuoli) Mantuanus,27059664,Q810973,"32,59,153,268"
 Barbarigo Gregorio,,,77
-Barbarus Hermolaus,,,"83,88"
+Barbarus Hermolaus,54942062,,"83,88"
 Barberini Matteo: see Urbanus VIII,,,
 Barberius-Vèmars Josephus Nic.,,,113
 Barbosa Aires,,,118
@@ -154,7 +154,7 @@ Bardhi Fr.: see Blanchus Fr.,,,
 Barcaeus Gaspar,,,"269,309"
 Barletus Marinus,,Q464230,"88,89,90"
 Baronius Bonàventura,198817134,,172
-Baronius Caesar,,,"62,190"
+Baronius Caesar,17326794,,"62,190"
 "Barros, Johannes de",17235538,Q703704,125
 Barthius Gaspar,15563174,Q76182,"106,183,189,199"
 Bartholdus Georgius,,,230
@@ -194,8 +194,8 @@ Benario Herbert W.,,,290
 "Benedictus Laurentius, Nodozierinus",,,234
 Benessa Damianus,,Q31198595,94
 "Benignus: see Salviatis, G. de",,,
-"Ben Jelloun, Tahar",,,47
-Bentley Richard,,,166
+"Ben Jelloun, Tahar",61541657,,47
+Bentley Richard,27862472,,166
 Benvenutus Imolensis,,,46
 Benzelius Ericus,9857012,,277
 Bergenhielm Johannes,15855827,,277
@@ -265,11 +265,11 @@ Bornmann Christianus,170580191,,260
 Borovskij Jacobus M.,248964111,,257
 Borrichius Olaus,,,"267,273"
 Borup Martinus,308759482,,263
-Boscovicius Rogerius,,,"94,99"
+Boscovicius Rogerius,,Q310757,"94,99"
 Bourbon: see Borbonius.,,,
 Bourne Vincentius,,,"167,175"
 Bovillus (Bolles) Carolus,,,133
-"Boysson€, Jehan de",,,143
+"Boyssoné, Jehan de",,Q3175304,143
 Braccius (Braccesi) Alexander,76428037,Q2832756,58
 Brahe Tycho,73850627,Q36620,"192,231,265,268"
 Brant Sebastianus,29530930,,182
@@ -418,7 +418,7 @@ Clemens Alexandrinus,100185827,Q188883,124
 "Clemens Zebracenus ,Venceslaus",31977095,Q112367396,"228,229,237"
 Clenardus Nicolaus,59885698,Q549782,"150,311,313"
 Clesius Bernardus,59192040,Q826269,77
-"Clonovius (= Acernus), Sebastianus",,,"242,243"
+"Clonovius (= Acernus), Sebastianus",12338481,,"242,243"
 Clusius Carolus,,,"155,216"
 Cnapius Gregorius,,Q5612521,"234,244"
 Cobami Josephus,,,95
@@ -511,8 +511,8 @@ Delacroix D.,,,172
 Delignières Carolus,,,139
 Delille Jacques,,,140
 Delrio Martinus A.,122217220,Q1343514,106
-Demetrius Phalereus,,,7
-Demosthenes,,,7
+Demetrius Phalereus,,Q313286,7
+Demosthenes,,Q117253,7
 Dempster Thomas,4919523,Q672898,"169,173"
 Denis Michael,32028043,Q494586,183
 Deodatus (Bogdan) Petrus,47673907,,"92,98"
@@ -523,7 +523,7 @@ Despauterius Johannes,53924,Q598174,"150,268"
 Deswert Johannes Chrysost.,,,156
 Dethick Henry,,,166
 Dhuoda,,,31
-Dickens Charles,,,"151,167"
+Dickens Charles,,Q5686,"151,167"
 Didacus Pyrrhus = Flavius J. (Isaia Kohen),,,"93,122"
 Diggle James,,,164
 Diogenes Laertius,,,7
@@ -594,9 +594,9 @@ Faber Stapulensis: see Lefèvre d'Etaples.,,,
 Fabini Johannes Gottlieb,64352466,,226
 Fabri Johannes,,,254
 Fabricius Arnaldus,,,"126,132"
-Fabricius Georgius,,,"10,200"
+Fabricius Georgius,,Q71606,"10,200"
 Fabricius Paulus,,,232
-Facius Bartholomaeus,,,104
+Facius Bartholomaeus,,Q809500,104
 Faernus Gabriel,88354857,,61
 Fagellus Villaticus Simon,10191036,,230
 "Faggis, Angelus de",,,101
@@ -621,7 +621,7 @@ Ferretus Vicentinus,,,"54,55"
 Ferrius Hieronymus,,,47
 "Fiano, Franciscus de",,,119
 Fichet Gulielmus,76350813,Q331154,"128,131,147"
-Fichte Johann G.,,,127
+Fichte Johann G.,,Q102585,127
 Ficinus Marsilius,,,"14,60"
 Filelfus: see Philelphus.,,,
 Filiczki de Filifalva Johannes,,,234
@@ -648,11 +648,11 @@ Forbes John,,,169
 Forcellini Aegidius,,Q550353,67
 Forestus Johannes,,,19
 Forgacz Michael,,,30
-Formosa Giovanni,,,102
+Formosa Giovanni,446159474324227662702,,102
 Formosa Salvator,,,102
 Fornelius Lars,,Q5736376,277
 Forskai Petrus,,,280
-"Fortis (Sterck) a Ringelberg, Joachim",,,130
+"Fortis (Sterck) a Ringelberg, Joachim",,Q720419,130
 Foscolo Ugo,,Q166234,64
 Foster Reginald,316559644,Q1218992,293
 Foullis: see Follisius.,,,
@@ -673,14 +673,14 @@ Frobenius Johannes,7440203,Q116611,210
 Froës Ludovicus,,,320
 Fronius Marcus,25470125,,"224,225"
 "Frulovisiis, Titus Livius de",44738753,Q2436996,165
-Fόglistaller Leonhard,,,208
+Füglistaller Leonhard,54942920,,208
 Fiirstenbergius Ferdinandus,,,"63-4,183"
 Fuss Johannes Dominicus,68890752,Q1246066,"24,27,28,154"
 Gabler Matthias,,,263
-Gadolinus Johannes,,,280
+Gadolinus Johannes,807177,,280
 Gaertner Johannes Alexander,48442861,,292-3
 Gager Gulielmus,37711092,,167
-Gagliuffus Faustus,,,"29,95"
+Gagliuffus Faustus,,Q55227915,"29,95"
 Gaguinus Robertus,14908169,Q3129976,"128,131,136,146"
 Galante Hippolytus,,,65
 "Galat(h)eus: see Ferrariis, Antonius de.",,,
@@ -688,7 +688,7 @@ Galenus,,Q8778,"8,234"
 Galilei Galileo,2470550,Q307,"63,192"
 Gallus Aegidius,,Q96439900,74
 Gallus Antonius,,,284
-Galluttius Tarquinius,,,63
+Galluttius Tarquinius,57548384,,63
 Galvani Luigi,74068991,Q1589,66
 Gambara Laurentius,44396441,Q16573531,"61,105,285"
 "Ganda, Theocritus a: see Heinsius Daniel.",,,
@@ -712,11 +712,10 @@ Gemma Cornelius,,Q660644,232
 Gemma Frisius,27696789,Q455406,155
 Genovesi Victorius,45228672,,"27,65"
 Gentilis Albericus,,Q1445910,"61,62,166"
-Geoffrey of Monmouth,,,170
+Geoffrey of Monmouth,89028232,,170
 Georgievitz Bartholomaeus,,Q12627648,224
-Georgius (Frater) O.P.: see Anonymus,,,
-Mühlbacensis.,,,
-Georgius Trapezuntius,,,85
+Georgius (Frater) O.P.: see Anonymus Mühlbacensis,,,
+Georgius Trapezuntius,102317361,,85
 Geraldinus Alexander,,,"284,296"
 Geraldinus Antonius,,,269
 Gerbillon P.,,,43
@@ -725,7 +724,8 @@ Gerner H.,,,273
 Gerson Johannes,100160310,Q281179,"127,128,144"
 Gesnerus Conradus,,Q60116,"208,209,210,236"
 Geulinx Arnoldus,,Q316559,155
-"Gezelius Johannes, Sr. and Jr.",,,278
+Gezelius Johannes Sr.,,,278
+Gezelius Johannes Jr.,,,278
 Gezelle Guido,,,"156,160"
 Gherus Ranutius: see Gruterus Janus.,,Q64263,
 Ghibbes: see Gibbesius,,,
@@ -733,7 +733,7 @@ Giannettasius Nicolaus,54292153,,"28,64"
 Gibault H.G.,,,48
 Gibbesius Jacobus A.,,,61
 Gide André.,,Q47484,31
-"Gil Polo, Gaspar",,,189
+"Gil Polo, Gaspar",99469137,,189
 Giovanni: see Johannes.,,,
 Giovio: see Jovius .,,,
 Giraldes Franciscus,,,120
@@ -753,7 +753,7 @@ Gómez de Castro Alvarus,,Q6172688,110
 González Thomas,,,297
 Goritz: see Corycius.,,,
 Goslicius Laurentius,,,246
-Gott Samuel,,,165
+Gott Samuel,24772205,,165
 Gouffaux Aemilius,,,156
 Gouvea Andreas,,,"121,130"
 Gouvea Antonius,,,"121,130"
@@ -784,7 +784,7 @@ Guarinus Baptista,,,56
 Guarinus Veronensis,,Q539577,"8,31,45,56,60,73,78,215,299"
 Guarna Andreas,,,26
 Gudelinus P.,,,311
-"Guericke, Otto von",,,192
+"Guericke, Otto von",39420589,,192
 Guilandinus Melchior,,,313
 Guillemain Franciscus,,,209
 Guinisius Nicolaus,,,63
@@ -798,14 +798,14 @@ Hagecius Th.,,,231-2
 (H)alapi Constantinus,,,216
 Haliste P.,,,259
 Hall Joseph,,,165
-HalΙdórsson Bjdrn,,,270
+Halldórsson Björn,121021851,,270
 "Haller, Albert von",49234879,Q123225,"208,209,210"
 Halley Edmund,71400665,Q47434,166
 Haloinus Cominius Georgius,100289355,Q42909781,"30,45,158"
 Hafer Georgius,,,225
-Hanno Carthaginiensis,,,"8,209"
+Hanno Carthaginiensis,29675181,,"8,209"
 Hara(d): see Fara(d).,,,
-Harasiewicz Michael,,,248
+Harasiewicz Michael,161545466,,248
 Harderus Henricus,47834426,Q107481812,"265,273"
 Hartman Johannes J.,,Q2761437,156
 Harveius Gabriel,3250080,,166
@@ -818,9 +818,9 @@ Haveman Georgius,,,"275,276`"
 Hayneccius Martinus,,,188
 "Hazardière , Petrus de la",4964793,,"128,147"
 Hedwig Johannes,,Q64256,"225,226"
-Hegel Georg W.Fr.,,,127
+Hegel Georg W.Fr.,89774942,,127
 Hegelund Petrus,37998906,,"266,273"
-Hegius Alexander,,,180
+Hegius Alexander,192483375,,180
 Heidensteinius Reinoldus,,Q103074,"245,246"
 Heinsius Daniel,56635500,Q918731,"145,149,152,154,155,159,229,269"
 "Heinsius Nicolaus, sr.",95302161,Q510116,"61,152,154"
@@ -830,11 +830,11 @@ Heliconius (Hilchen) David,35268419,,259
 Heliodorus,,Q313011,8
 Helmontius Johannes Baptista,32800169,,"155,225"
 Hemmy Gisbertus,,,312
-Hémon Louis,,,31
+Hémon Louis,36919573,,31
 Hemsterhusius Tiberius,15057396,,28
 Henricpetri (Henricus Petrus),106970891,,210
 Henricus Lettus,,,258
-Henry VIII,,,166
+Henry VIII,172419710,,166
 Herbenus Mattaheus,,,149
 Herbersteinius Sigismundus,,Q700720,"30,96,97"
 Herbert George,71487054,Q317887,"167,171,175"
@@ -848,7 +848,7 @@ Herodotus,,,9
 "Herrera, Cyprianus de",,,301
 Hesiodus,,,93
 Hessler Franciscus,22902216,,317
-Hieronymus (Sanctus ),95147024,Q44248,"1,9,25,32"
+Hieronymus (Sanctus),95147024,Q44248,"1,9,25,32"
 Hieronymus Papiensis,200196685,,"129,142"
 Higham Thomas F.,,,164
 Hilchen: see Heliconius,,,
@@ -858,29 +858,29 @@ Hinderbach Johannes,,,77
 Hippocrates,,,9
 Hobbes Thomas,,,166
 Hoddeiovinus Johannes,,,"228,237"
-Hoeufft Jacobus H.,,,156
+Hoeufft Jacobus H.,15548571,,156
 "Hojeda, Diego de",27318897,,59
 Holberg Ludovicus,,Q216692,"27,172,265,267,268,271"
 Holstenius Lucas,,,325
 Homerus,,Q6691,"4,9,130,185,209,298"
 (Pseudo-)Homerica,,,9
-Honerdus Rochus,,,154
+Honerdus Rochus,36828811,,154
 Honterus Johannes,,Q738256,224
 Hontheim: see Febronius.,,,
-Hopkins G. Manley,,,167
+Hopkins G. Manley,9847864,,167
 Hopner Johannes,,,"265,273"
-Horapollo,,,9
+Horapollo,250688796,,9
 Horatius,,Q6197,"1,9,10,32,63,70,100,135,167,181,200,242,243,251,265,268,284,295-6,306,312,320"
 Horatius Romanus,,Q88201937,32
 Horcicky: see Sinapius.,,,
 Horius Nicolaus,,,135
-Hortensius Maurus,,,"62,204,275"
+Hortensius Maurus,40480047,,"62,204,275"
 Hosius Stanislaus,66506400,,246
 Hospitalius (de L'Hospital) Michael,100198491,,135
 Hosschius Sidronius,45131215,Q7509501,"107,154"
 Hotman Franciscus,44300253,Q561737,133
 Housman Alfred E.,49249069,Q351410,166
-Hroswitha,,,"23,31,136"
+Hroswitha,9927322,,"23,31,136"
 Huetius Daniel,,,147
 Hugenius: see Huygens,,,
 Hugo Hermannus,,,154
